@@ -3,7 +3,7 @@
 
 * [IncrementalSearchBehavior.cs](./CS/IncrementalSearch/Behavior/IncrementalSearchBehavior.cs) (VB: [IncrementalSearchBehavior.vb](./VB/IncrementalSearch/Behavior/IncrementalSearchBehavior.vb))
 * [MainWindow.xaml](./CS/IncrementalSearch/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/IncrementalSearch/MainWindow.xaml))
-* [MainWindow.xaml.cs](./CS/IncrementalSearch/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/IncrementalSearch/MainWindow.xaml))
+* [MainWindow.xaml.cs](./CS/IncrementalSearch/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/IncrementalSearch/MainWindow.xaml.vb))
 * [TaskViewModel.cs](./CS/IncrementalSearch/ViewModel/TaskViewModel.cs) (VB: [TaskViewModel.vb](./VB/IncrementalSearch/ViewModel/TaskViewModel.vb))
 <!-- default file list end -->
 # How to add Incremental Search into GridControl
